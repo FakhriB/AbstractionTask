@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractionTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41da4fb0c861426b75a6e58c30ee336ce772f045")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractionTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractionTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

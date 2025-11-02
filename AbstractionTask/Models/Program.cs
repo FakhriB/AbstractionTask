@@ -60,7 +60,7 @@ namespace AbstractionTask.Models
                         case "1":
                             var students = group.GetAllStudents();
                             if (students.Length == 0)
-                                Console.WriteLine("❗ Heç bir student yoxdur.");
+                                Console.WriteLine(" Heç bir student yoxdur.");
                             else
                                 foreach (var s in students)
                                     if (s != null) s.ShowInfo();
