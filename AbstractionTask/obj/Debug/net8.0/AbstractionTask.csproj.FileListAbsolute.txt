@@ -1,0 +1,14 @@
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.AssemblyInfoInputs.cache
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.AssemblyInfo.cs
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.csproj.CoreCompileInputs.cache
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.exe
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.deps.json
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.runtimeconfig.json
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.dll
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.pdb
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.dll
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\refint\AbstractionTask.dll
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.pdb
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.genruntimeconfig.cache
+C:\Users\FakhriB\source\repos\AbstractionTask\AbstractionTask\obj\Debug\net8.0\ref\AbstractionTask.dll

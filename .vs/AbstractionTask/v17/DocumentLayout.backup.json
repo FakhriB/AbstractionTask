@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|c:\\users\\fakhrib\\source\\repos\\abstractiontask\\abstractiontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B4F12-D7D1-4681-8236-104E7956100B}|AbstractionTask\\AbstractionTask.csproj|solutionrelative:abstractiontask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Group.cs",
+              "RelativeToolTip": "AbstractionTask\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:55:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Students.cs",
+              "RelativeToolTip": "AbstractionTask\\Models\\Students.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:52:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\User.cs",
+              "RelativeToolTip": "AbstractionTask\\Models\\User.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwDkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:51:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\IPerson.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\IPerson.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\IPerson.cs",
+              "RelativeToolTip": "AbstractionTask\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:32:41.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Account.cs",
+              "RelativeToolTip": "AbstractionTask\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:17:47.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionTask\\Models\\Program.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\AbstractionTask\\AbstractionTask\\Models\\Program.cs",
+              "RelativeToolTip": "AbstractionTask\\Models\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:23:24.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
